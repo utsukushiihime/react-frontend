@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+## Getting Started
+
+---
+
+[If you have a Mac here is the configuration for React and Node.js](https://medium.com/nerd-for-tech/preparing-your-mac-for-react-and-node-development-install-nodejs-npm-vs-code-and-configure-vs-e4f0cf1e99a4)
+
+[If you do not have Homebrew installed](https://brew.sh/)
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
